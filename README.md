@@ -13,7 +13,7 @@ A simple blockchain implementation in Rust demonstrating core blockchain concept
 ## Getting Started
 
 1. Clone the repository:
-```git clone https://github.com/xyz/BlockchainSimulation.git```
+```git clone https://github.com/itspersonal0/BlockchainSimulation.git```
 
 2. Build the project:
 ```cargo build```
